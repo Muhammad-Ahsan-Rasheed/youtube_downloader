@@ -1,5 +1,5 @@
 # Youtube Downloader
-<img alt="GitHub followers" src="https://img.shields.io/badge/YouTube%20Downloader%20-Version%201.0-blue">
+<img alt="GitHub followers" src="https://img.shields.io/badge/YouTube%20Downloader%20-Version%201.0-blue"><br/>
 ## Description
 
 In this project I build version 1.0 of my Youtube Downloader as CLI base App. I used concept of Multithreading for Fast Downloading... You can use this version to download <br/>
